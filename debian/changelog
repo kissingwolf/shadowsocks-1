@@ -1,3 +1,10 @@
+shadowsocks (2.1.0-2) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * fix bug: man page references texinfo documents which don't exist (Closes: #810688) 
+
+ -- shell <shell@dskvmdeb.lan>  Mon, 11 Jan 2016 21:24:19 +0800
+
 shadowsocks (2.1.0-1) unstable; urgency=low
 
   * Initial release (Closes: #758900)
